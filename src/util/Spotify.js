@@ -1,4 +1,4 @@
-const clientId = '2c0e6818cddb4f96878c263f4b7ed9ab';
+const clientId = ''; // removed for GitHub
 const redirectUri = 'http://localhost:3000/callback/';
 let accessToken;
 
